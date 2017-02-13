@@ -63,8 +63,7 @@ Essa é minha lista não ordenada!
 ##Links
 Ok, agora vamos criar alguns links.
 
-Aqui tem o link do [IFSP Campus Caraguatatuba](https://www.ifspcaraguatatuba.edu.br/ "IFSP's Homepage"), minha instituição de ensino do coração :D
-
+Aqui tem o link do [IFSP Campus Caraguatatuba](https://www.ifspcaraguatatuba.edu.br/ "IFSP's Homepage"), minha instituição de ensino do coração :D  
 Aqui um link para o site do [DeepLibras][1], grupo de pesquisa que faço parte. Só tem gente MUITO legal e inteligente aqui!
 
 Aqui um link para o meu repositório [jBility]. Sem dúvidas o repositório que criei com mais carinho!
