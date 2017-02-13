@@ -16,6 +16,8 @@ E se riscarmos isso? ~~urielcaire~~
 ## Listas
 Ok, agora vamos trabalhar com listas :D
 
+#### Lista Ordenada
+
 Aí vai uma lista ordenada das minhas linguagens preferidas:
 
 1. PHP
@@ -46,3 +48,14 @@ Aí vai uma lista ordenada das minhas linguagens preferidas:
    Sem dúvida alguma, essa é a próxima linguagem que irei me dedicar a aprender. Tive pouca experiência com ela, mas já acho incrível!
 
 Ok, temos uma lista ordenada bem completa.
+
+#### Lista Não Ordenada
+
+Agora vamos para uma lista **não ordenada** ~~desordenada?~~ das coisas que gosto de fazer:
+
+* Pilotar minha moto <3
+* Praticar Jiu Jitsu
+- Ir a praia
++ Jogar Video Game
+
+Essa é minha lista não ordenada!
