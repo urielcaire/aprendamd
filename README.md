@@ -71,3 +71,11 @@ Aqui um link para o meu repositório [jBility]. Sem dúvidas o repositório que 
 
 [1]: http://deeplibras.github.io/pt/
 [jBility]: https://github.com/urielcaire/jbility
+
+## Imagens
+
+Vou começar com esse gif lindão aqui: ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
+
+E agora um ícone do github: ![alt text][github]
+
+[github]: https://github.com/urielcaire/learnmd/blob/master/imgs/github.png "Github logo"
