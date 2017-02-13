@@ -68,3 +68,21 @@ Vou começar com esse gif lindão aqui: ![alt text](https://github.com/urielcair
 E agora um ícone do github: ![alt text][github]
 
 [github]: https://github.com/urielcaire/learnmd/blob/master/imgs/github.png "Github logo"
+
+##Códigos
+Agora a parte mais legal, inserir códigos!
+
+Aqui um código em JavaScript
+```javascript
+var init = "Olá, mundo!";
+alert(init);
+```
+Agora em PHP <3
+```php
+<?php
+	while(1==1){
+		echo "Eu sou um loop infinito D: ";
+	}
+?>
+```  
+Isso é realmente muito importante e legal.
