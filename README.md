@@ -4,6 +4,10 @@ cada vez melhores e mais bonitos.
 
 Fonte de aprendizagem: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+##Quebras de linhas
+As quebras de linha são feitas com dois espaços ao fim da linha.  
+Por exemplo, a mensagem "Olá, mundo!" ficaria "Olá, mundo!  ".
+
 ## Textos Destacados
 Olha como fica legal meu nickname em negrito: **urielcaire** :D  
 Mas em itálico fica um tanto quanto estranho:  *urielcaire* =\  
