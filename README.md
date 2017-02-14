@@ -126,14 +126,13 @@ E agora um ícone do github: ![alt text][github]
 ##Códigos
 Agora a parte mais legal, inserir códigos!
 
-```markdown
+```
 Para inserir códigos você deve digitar três crases mais a linguagem que deseja mostrar e no fim de tudo 'fechar' com mais três crases.
 Fica assim:
 
-```minhalinguagem
-
-  uma lingauem aqui
-
+```javascript
+var init = "Olá, mundo!";
+alert(init);
 ```
 
 ```
