@@ -127,16 +127,14 @@ E agora um ícone do github: ![alt text][github]
 Agora a parte mais legal, inserir códigos!
 
 ```
-Para inserir códigos você deve digitar três crases mais a linguagem que deseja mostrar e no fim de tudo 'fechar' com 
-mais três crases.
+Para inserir códigos você deve digitar três crases mais a linguagem que deseja mostrar e no fim de tudo 'fechar' 
+com mais três crases.
 Fica assim:
 
-```javascript
-var init = "Olá, mundo!";
-alert(init);
-
-```
-
+    ```javascript
+    var init = "Olá, mundo!";
+    alert(init);
+    ````
 ```
 
 Aqui um código em JavaScript
