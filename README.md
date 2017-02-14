@@ -154,3 +154,22 @@ Isso é realmente muito importante e legal.
 
 ##Tabelas
 Acho que ainda posso precisar de algumas tabelas, vamos ver como isso funciona.
+
+```
+Observe que não há muito segredo em como montar uma tabela, a única regra é que são necessários
+pelo menos três traços para cada coluna.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+```
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
