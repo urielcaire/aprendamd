@@ -6,8 +6,16 @@ Fonte de aprendizagem: https://github.com/adam-p/markdown-here/wiki/Markdown-Che
 
 ##Quebras de linhas
 As quebras de linha são feitas com dois espaços ao fim da linha.  
-Por exemplo, a mensagem "Olá, mundo!" ficaria "Olá, mundo!  ".
+```
+Por exemplo:
+"Olá, mundo!" ficaria "Olá, mundo!  "
+```
+Já para iniciar um novo parágrafo, basta deixar uma linha em branco entre as frases. Exemplo:
+```
+Este é um parágrafo.
 
+Eeste é outro parágrafo.
+```
 ## Textos Destacados
 
 ```
