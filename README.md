@@ -190,3 +190,14 @@ pelo menos três traços para cada coluna.
 
 Aqui vai uma citação:  
 > It's me, Mario!
+
+##Linha Horizontal
+```
+Para acrescentar uma linha horizontal ao seu texto, insira ao menos três traços.
+
+Exemplo:
+---
+```
+
+Exemplo:
+---
