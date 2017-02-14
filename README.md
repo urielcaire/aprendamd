@@ -173,3 +173,12 @@ pelo menos três traços para cada coluna.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+##Citações
+
+```
+> Como você pode ver, citações são simples.
+> E essa linha faz parte da citação anterior.
+```
+
+Aqui vai uma citação:  
+> It's me, Mario!
