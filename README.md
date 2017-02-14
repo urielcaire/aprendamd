@@ -10,11 +10,11 @@ Por exemplo, a mensagem "Olá, mundo!" ficaria "Olá, mundo!  ".
 
 ## Textos Destacados
 
-```markdown
-  Você pode deixar uma palavra em negrito fazendo isso: **palavra**
-  Para deixá-la em itálico, faça o seguinte: _palavra_
-  Misturar os dois é simples, basta fazer isso: **_palavra_**
-  E, finalmente, para riscar: ~~palavra~~
+```
+Você pode deixar uma palavra em negrito usando **asteriscos** ou __underlines__
+Para deixá-la em itálico, use apenas um par de *astericos* ou de _underlines_
+Misturar os dois é simples, basta fazer isso: **_palavra_**
+E, finalmente, para riscar uma palavra utilize dois pares de ~~til~~
 ```
 Olha como fica legal meu nickname em negrito: **urielcaire** :D  
 Mas em itálico fica um tanto quanto estranho:  _urielcaire_ =\  
@@ -25,6 +25,22 @@ E se riscarmos isso? ~~urielcaire~~
 Ok, agora vamos trabalhar com listas :D
 
 #### Lista Ordenada
+
+```
+Para criar uma lista ordenada basta colocar o valor do tópico e acrescentar um espaçamento.
+Já para adicionar uma linha abaixo de um item da lista, como uma descrição, utilize três espaçamentos.
+Exemplo:
+
+1. PHP
+   Minha primeira linguagem de programação web. Acho que vai continuar sendo a preferida por um bom tempo!
+
+Para uma lista dentro da lista ordenada, utilize dois espaçamentos. Segue o exemplo:
+
+3. HTML & CSS  
+   Antes que me crucifiquem, vamos esclarecer duas coisas:
+  1. HTML: linguagem de marcação
+  2. CSS: linguagem de estilos 
+```
 
 Aí vai uma lista ordenada das minhas linguagens preferidas:
 
@@ -50,6 +66,13 @@ Ok, temos uma lista ordenada bem completa.
 
 #### Lista Não Ordenada
 
+````
+Para listas não ordenadas você pode usar três diferentes sinais. Observe:
+* Praticar Jiu Jitsu
+- Ir a praia
++ Jogar Video Game
+````
+
 Agora vamos para uma lista **não ordenada** ~~desordenada?~~ das coisas que gosto de fazer:
 
 * Pilotar minha moto <3
@@ -60,6 +83,20 @@ Agora vamos para uma lista **não ordenada** ~~desordenada?~~ das coisas que gos
 Essa é minha lista não ordenada!
 
 ##Links
+```
+Há duas maneiras de criar links.
+
+Na primeira, você coloca a palavra entre [] seguida do link entre (). Exemplo:
+Aqui tem o link do [IFSP Campus Caraguatatuba](https://www.ifspcaraguatatuba.edu.br/ "IFSP's Homepage"), minha instituição de ensino do coração :D  
+
+Na segunda você cria uma referência para o link ao final e depois a chama. Observe os dois links e as duas referências, são um pouco diferentes:
+Aqui um link para o site do [DeepLibras][1], grupo de pesquisa que faço parte. Só tem gente MUITO legal e inteligente aqui!  
+Aqui um link para o meu repositório [jBility]. Sem dúvidas o repositório que criei com mais carinho!
+
+[1]: http://deeplibras.github.io/pt/
+[jBility]: https://github.com/urielcaire/jbility
+```
+
 Ok, agora vamos criar alguns links.
 
 Aqui tem o link do [IFSP Campus Caraguatatuba](https://www.ifspcaraguatatuba.edu.br/ "IFSP's Homepage"), minha instituição de ensino do coração :D  
@@ -71,6 +108,16 @@ Aqui um link para o meu repositório [jBility]. Sem dúvidas o repositório que 
 
 ## Imagens
 
+```
+Para adicionar uma imagem basta inserir uma tag seguida do link da imagem. Fica assim:
+Vou começar com esse gif lindão aqui: ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
+
+Você também pode fazer por referência, como o link:
+E agora um ícone do github: ![alt text][github]
+
+[github]: https://github.com/urielcaire/learnmd/blob/master/imgs/github.png "Github logo"
+```
+
 Vou começar com esse gif lindão aqui: ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")  
 E agora um ícone do github: ![alt text][github]
 
@@ -78,6 +125,18 @@ E agora um ícone do github: ![alt text][github]
 
 ##Códigos
 Agora a parte mais legal, inserir códigos!
+
+```markdown
+Para inserir códigos você deve digitar três crases mais a linguagem que deseja mostrar e no fim de tudo 'fechar' com mais três crases.
+Fica assim:
+
+```minhalinguagem
+
+  uma lingauem aqui
+
+```
+
+```
 
 Aqui um código em JavaScript
 ```javascript
