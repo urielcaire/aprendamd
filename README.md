@@ -202,14 +202,4 @@ Exemplo:
 Exemplo:
 ---
 
-##Adicionar Vídeos
-Você pode adicionar vídeos de duas formas, uma mais completa:
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1w7OgIMMRc4" frameborder="0" allowfullscreen></iframe>
-```
-E a outra: 
-```
-[![UM TEXTO QUALQUER AQUI](https://www.youtube.com/watch?v=1w7OgIMMRc4/0.jpg)(https://www.youtube.com/watch?v=1w7OgIMMRc4)]
-```
-
-[![SWEET](https://www.youtube.com/watch?v=1w7OgIMMRc4/0.jpg)(https://www.youtube.com/watch?v=1w7OgIMMRc4)]
+###I-Isso é tudo pe-pessoal!
