@@ -1,5 +1,5 @@
 # LearnMD
-Este repositório será utilizado apenas para aprender Markdown. Com essa 'skill' vou poder criar arquivos README.md
+Este repositório será utilizado apenas para aprender e ensinar Markdown. Com essa 'skill' eu e você poderemos criar arquivos README.md
 cada vez melhores e mais bonitos.
 
 Fonte de aprendizagem: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -9,8 +9,15 @@ As quebras de linha são feitas com dois espaços ao fim da linha.
 Por exemplo, a mensagem "Olá, mundo!" ficaria "Olá, mundo!  ".
 
 ## Textos Destacados
+
+```markdown
+  Você pode deixar uma palavra em negrito fazendo isso: **palavra**
+  Para deixá-la em itálico, faça o seguinte: _palavra_
+  Misturar os dois é simples, basta fazer isso: **_palavra_**
+  E, finalmente, para riscar: ~~palavra~~
+```
 Olha como fica legal meu nickname em negrito: **urielcaire** :D  
-Mas em itálico fica um tanto quanto estranho:  *urielcaire* =\  
+Mas em itálico fica um tanto quanto estranho:  _urielcaire_ =\  
 Vamos misturar os efeitos: **_urielcaire_**. Não ficou nada agradável hahaha  
 E se riscarmos isso? ~~urielcaire~~
 
@@ -86,3 +93,6 @@ Agora em PHP <3
 ?>
 ```  
 Isso é realmente muito importante e legal.
+
+##Tabelas
+Acho que ainda posso precisar de algumas tabelas, vamos ver como isso funciona.
