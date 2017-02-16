@@ -1,8 +1,24 @@
-# LearnMD
+# AprendaMD
 Este repositório será utilizado apenas para aprender e ensinar Markdown. Com essa 'skill' eu e você poderemos criar arquivos README.md
 cada vez melhores e mais bonitos.
 
 Fonte de aprendizagem: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+##Cabeçalhos
+Para fazer cebeçãlhos, basta usar sustenidos antes da palavra. 
+```
+#H1
+##H2
+###H3
+####H4
+#####H5
+```
+#H1
+##H2
+###H3
+####H4
+#####H5  
+Simples, não é?
 
 ##Quebras de linhas
 As quebras de linha são feitas com dois espaços ao fim da linha.  
