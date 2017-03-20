@@ -4,23 +4,23 @@ cada vez melhores e mais bonitos.
 
 Fonte de aprendizagem: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-##Cabeçalhos
+## Cabeçalhos
 Para fazer cebeçãlhos, basta usar sustenidos antes da palavra. 
 ```
-#H1
-##H2
-###H3
-####H4
-#####H5
+# H1
+## H2
+### H3
+#### H4
+##### H5
 ```
-#H1
-##H2
-###H3
-####H4
-#####H5  
+# H1
+## H2
+### H3
+#### H4
+##### H5  
 Simples, não é?
 
-##Quebras de linhas
+## Quebras de linhas
 As quebras de linha são feitas com dois espaços ao fim da linha.  
 ```
 Por exemplo:
@@ -106,7 +106,7 @@ Agora vamos para uma lista **não ordenada** ~~desordenada?~~ das coisas que gos
 
 Essa é minha lista não ordenada!
 
-##Links
+## Links
 ```
 Há duas maneiras de criar links.
 
@@ -147,7 +147,7 @@ E agora um ícone do github: ![alt text][github]
 
 [github]: https://github.com/urielcaire/learnmd/blob/master/imgs/github.png "Github logo"
 
-##Códigos
+## Códigos
 Agora a parte mais legal, inserir códigos!
 
 ```
@@ -176,7 +176,7 @@ Agora em PHP <3
 ```  
 Isso é realmente muito importante e legal.
 
-##Tabelas
+## Tabelas
 Acho que ainda posso precisar de algumas tabelas, vamos ver como isso funciona.
 
 ```
@@ -197,7 +197,7 @@ pelo menos três traços para cada coluna.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-##Citações
+## Citações
 
 ```
 > Como você pode ver, citações são simples.
@@ -207,7 +207,7 @@ pelo menos três traços para cada coluna.
 Aqui vai uma citação:  
 > It's me, Mario!
 
-##Linha Horizontal
+## Linha Horizontal
 ```
 Para acrescentar uma linha horizontal ao seu texto, insira ao menos três traços.
 
@@ -218,4 +218,4 @@ Exemplo:
 Exemplo:
 ---
 
-###I-Isso é tudo pe-pessoal!
+### I-Isso é tudo pe-pessoal!
